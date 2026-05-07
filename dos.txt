@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Línea uno
-=======
 Primera Línea
->>>>>>> 90eb6daa7461e0b85918e90ffbfe9f46b372f67e
